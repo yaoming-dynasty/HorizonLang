@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "horizon_lang"
+version = "0.0.1"
+description = "HorizonLang interpreter, examples, and runtime for the HorizonLang DSL"
+authors = [ { name = "HorizonLang Contributors" } ]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.25"]
