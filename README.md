@@ -1,7 +1,4 @@
 # HorizonLang
-HorizonLang interpreter, examples, and runtime for the HorizonLang DSL
-
-# HorizonLang
 
 **HorizonLang** is a domain-specific programming language (DSL) built entirely around non-commutative operator algebras and boundary regularization. Unlike classical languages that rely on mutable variable assignment, HorizonLang treats code blocks as open physical systems, enforcing the structural framework equation as its core primitive:
 
@@ -121,5 +118,16 @@ When compiled successfully, HorizonLang pushes execution summaries directly to t
  -> RUNTIME STATUS: [ PASS ]
 ```
 
+---
+
 ## License
-Open-source software framework optimized for Quantum Cognitive AI architecture loops, biophysical simulation matrices, and non-commutative error-isolation systems.
+
+### MIT License
+
+Copyright (c) 2026 HorizonLang Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
